@@ -81,11 +81,6 @@ hr.small {
   letter-spacing: 1px;
 }
 
-.subheading span {
-  font-family: Shrikhand;
-  letter-spacing: 
-}
-
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     background: transparent;
